@@ -1,0 +1,43 @@
+.container {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+}
+.text {
+  color: black;
+}
+a {
+  padding: 4px;
+  text-decoration: black;
+  color: rgb(255, 255, 255);
+  border-radius: 13px;
+  border: 1px solid rgb(0, 157, 255);
+  background-color: rgb(128, 129, 128);
+}
+.navbar-itms a:hover {
+  display: inline-block;
+  text-decoration: gray;
+  color: gray;
+  border: 1px solid red;
+  margin: 5px;
+  padding: 5px;
+  text-decoration: gray;
+  color: gray;
+
+  border-radius: 10px;
+  transform: 4s;
+  background-color: rgb(28, 186, 10);
+}
+
+.image {
+  padding: 10px;
+  margin: 10px;
+}
+.box {
+  display: inline-block;
+  margin: 5px;
+  padding: 4px;
+  text-decoration: black;
+  color: rgb(255, 255, 255);
+}
